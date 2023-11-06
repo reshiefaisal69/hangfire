@@ -1,0 +1,5 @@
+E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.AssemblyInfo.cs
+E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.csproj.CoreCompileInputs.cache
