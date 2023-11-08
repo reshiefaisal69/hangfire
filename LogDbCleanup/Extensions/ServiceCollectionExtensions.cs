@@ -1,23 +1,31 @@
-using LogDbCleanup.Configuration;
+using Hangfire;
+using LogDbCleanUp.Configuration;
+using LogDbCleanUp.Data.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Hangfire;
 
-namespace LogDbCleanup.Extensions
+namespace LogDbCleanUp.Extensions;
+
+public static class ServiceCollectionExtensions
 {
-    public static class ServiceCollectionExtensions
+    public static void AddApplicationServices(this IServiceCollection services, IConfiguration configuration)
     {
-        public static void AddApplicationServices(this IServiceCollection services)
-        {
-            services.AddSingleton<LogCleanupConfiguration>();
-        }
+        services.AddScoped<DapperContext>();
+        
+        LogCleanUpConfiguration logConfig = new();
+        configuration.GetSection("LogConfigurations").Bind(logConfig);
+        services.AddSingleton(logConfig);
 
-        public static void AddHangfireServices(this IServiceCollection services, IConfiguration configuration)
-        {
-            services.AddHangfire(x => x
-                .UseSqlServerStorage(configuration.GetConnectionString("JobsDb")));
-
-            services.AddHangfireServer();
-        }
+        ConnectionStringsConfiguration efConfig = new();
+        configuration.GetSection("ConnectionStrings").Bind(efConfig);
+        services.AddSingleton(efConfig);
     }
+
+    public static void AddHangfireServices(this IServiceCollection services, IConfiguration configuration)
+    {
+        services.AddHangfireServer();
+        services.AddHangfire(x => x
+            .UseSqlServerStorage(configuration.GetConnectionString("JobsConnectionString")));
+    }
+    
 }

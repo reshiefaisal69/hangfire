@@ -1,6 +1,6 @@
 using Hangfire;
 
-namespace LogDbCleanup.HangfireConfig;
+namespace LogDbCleanUp.HangfireConfig;
 
 public class HangfireActivator : JobActivator
 {

@@ -1,35 +1,26 @@
 using Hangfire;
-using LogDbCleanup.Configuration;
-using LogDbCleanup.Services;
-using LogDbCleanup.Services.CabPortal;
+using LogDbCleanUp.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-public static class HangfireSetup
+namespace LogDbCleanUp.HangfireConfig;
+
+public static class Hangfire
 {
-    public static void SetupHangfire(this IServiceProvider serviceProvider)
+    public static BackgroundJobServer SetupHangfire(this IServiceProvider serviceProvider)
     {
         GlobalConfiguration.Configuration.UseSqlServerStorage(
-            serviceProvider.GetRequiredService<IConfiguration>().GetConnectionString("JobsDb"));
+            serviceProvider.GetRequiredService<IConfiguration>().GetConnectionString("JobsConnectionString"));
+        var server = new BackgroundJobServer();
+        var scope = serviceProvider.CreateScope();
+        var recurringJobManager = scope.ServiceProvider.GetRequiredService<IRecurringJobManager>();
+        
+        recurringJobManager.AddOrUpdate<LogCleanupService>(
+            "LogCleanupService",
+            x => x.Execute(),
+            Cron.Minutely(),
+            new RecurringJobOptions());
 
-        using (var server = new BackgroundJobServer())
-        {
-            // Create a scope to resolve services
-            using (var scope = serviceProvider.CreateScope())
-            {
-                var recurringJobManager = scope.ServiceProvider.GetRequiredService<IRecurringJobManager>();
-                var backgroundJobClient = scope.ServiceProvider.GetService<IBackgroundJobClient>();
-
-                // Retrieve configuration or any other necessary services
-                var config = scope.ServiceProvider.GetRequiredService<LogCleanupConfiguration>();
-
-                // Schedule jobs
-                recurringJobManager.AddOrUpdate<ErrorsLogCleanUpService>(
-                    "LogCleanUp",
-                    (x) => x.Execute(),
-                    Cron.Monthly,
-                    new RecurringJobOptions());
-            }
-        }
+        return server;
     }
 }

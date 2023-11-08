@@ -1,21 +1,31 @@
-﻿using LogDbCleanup.Extensions;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using Hangfire;
+using LogDbCleanUp.Extensions;
+using LogDbCleanUp.HangfireConfig;
+using Microsoft.Extensions.Configuration;
 
-var serviceCollection = new ServiceCollection();
-ConfigureServices(serviceCollection);
+var builder = WebApplication.CreateBuilder(args);
 
-var serviceProvider = serviceCollection.BuildServiceProvider();
-serviceProvider.SetupHangfire();
-return;
+// Configure Hangfire services
+builder.Services.AddHangfireServices(builder.Configuration);
 
-static void ConfigureServices(IServiceCollection services)
+// Configure your application services
+ConfigureServices(builder.Services, builder.Configuration);
+
+var app = builder.Build();
+
+// Set up Hangfire Dashboard
+app.UseHangfireDashboard();
+
+// Start the Hangfire server
+var serviceProvider = app.Services;
+using var hangfireServer = serviceProvider.SetupHangfire();
+
+app.Run();
+
+static void ConfigureServices(IServiceCollection services, IConfiguration configuration)
 {
-    var configuration = new ConfigurationBuilder()
-        .AddJsonFile("appSettings.json")
-        .Build();
-
-    services.AddSingleton<IConfiguration>(configuration);
-    services.AddHangfireServices(configuration);
-    services.AddApplicationServices();
+    // Add your application services
+    services.AddApplicationServices(configuration);
 }

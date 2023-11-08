@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Dotnet\\WebApiProjects\\MyProjects\\LogDbCleanup\\LogDbCleanup\\LogDbCleanup.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\LogDbCleanUp\\LogDbCleanUp\\LogDbCleanUp.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Dotnet\\WebApiProjects\\MyProjects\\LogDbCleanup\\LogDbCleanup\\LogDbCleanup.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\LogDbCleanUp\\LogDbCleanUp\\LogDbCleanUp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Dotnet\\WebApiProjects\\MyProjects\\LogDbCleanup\\LogDbCleanup\\LogDbCleanup.csproj",
-        "projectName": "LogDbCleanup",
-        "projectPath": "E:\\Coding\\Dotnet\\WebApiProjects\\MyProjects\\LogDbCleanup\\LogDbCleanup\\LogDbCleanup.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\LogDbCleanUp\\LogDbCleanUp\\LogDbCleanUp.csproj",
+        "projectName": "LogDbCleanUp",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\LogDbCleanUp\\LogDbCleanUp\\LogDbCleanUp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Dotnet\\WebApiProjects\\MyProjects\\LogDbCleanup\\LogDbCleanup\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\LogDbCleanUp\\LogDbCleanUp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
             "Hangfire": {
               "target": "Package",
-              "version": "[1.8.6, )"
+              "version": "[1.8.5, )"
             },
             "Hangfire.Console": {
               "target": "Package",
@@ -56,17 +60,25 @@
               "target": "Package",
               "version": "[1.8.6, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0-rc.2.23479.6, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0-rc.2.23479.6, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0-rc.2.23479.6, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

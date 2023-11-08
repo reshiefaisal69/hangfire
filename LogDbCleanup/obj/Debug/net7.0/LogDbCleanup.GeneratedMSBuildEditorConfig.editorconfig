@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = LogDbCleanup
-build_property.ProjectDir = E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\
+build_property.RootNamespace = LogDbCleanUp
+build_property.ProjectDir = C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\

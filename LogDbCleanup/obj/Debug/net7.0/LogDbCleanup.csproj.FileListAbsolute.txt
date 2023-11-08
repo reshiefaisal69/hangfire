@@ -1,5 +1,222 @@
-E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.csproj.AssemblyReference.cache
-E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.GeneratedMSBuildEditorConfig.editorconfig
-E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.AssemblyInfoInputs.cache
-E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.AssemblyInfo.cs
-E:\Coding\Dotnet\WebApiProjects\MyProjects\LogDbCleanup\LogDbCleanup\obj\Debug\net7.0\LogDbCleanup.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\appSettings.json
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.exe
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.deps.json
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.runtimeconfig.json
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.pdb
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Dapper.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.AspNetCore.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.Console.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.Core.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.NetCore.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.SqlServer.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Npgsql.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\ca\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\de\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\es\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\fa\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\fr\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\nb\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\nl\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\sv\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\zh\Hangfire.Core.resources.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.AssemblyInfo.cs
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.CopyComplete
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\refint\LogDbCleanUp.dll
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.pdb
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.genruntimeconfig.cache
+C:\Users\user\Downloads\LogDbCleanUp (2)\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\ref\LogDbCleanUp.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\appSettings.json
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.exe
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.deps.json
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\LogDbCleanUp.pdb
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Dapper.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.AspNetCore.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.Console.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.Core.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.NetCore.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Hangfire.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Npgsql.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\ca\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\de\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\es\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\fa\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\fr\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\nb\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\nl\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\pt\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\sv\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\zh\Hangfire.Core.resources.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\refint\LogDbCleanUp.dll
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.pdb
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\LogDbCleanUp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\LogDbCleanUp\LogDbCleanUp\obj\Debug\net7.0\ref\LogDbCleanUp.dll
